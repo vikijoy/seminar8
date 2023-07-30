@@ -1,0 +1,2 @@
+first_name;last_name;hobbies;age;children
+Джон;Смит;['кузнечное дело', 'программирование', 'путешествия'];35;[{'first_name': 'Алиса', 'age': 5}, {'first_name': 'Маруся', 'age': 3}]
